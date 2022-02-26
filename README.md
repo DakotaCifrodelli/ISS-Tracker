@@ -1,2 +1,3 @@
-# ISS-Tracker
-Simple python application that prints out the location of the ISS and the Astronauts aboard
+# ISS Tracker
+
+ISS Tracker is an application for tracking the location of the ISS and the Astronauts aboard it.
